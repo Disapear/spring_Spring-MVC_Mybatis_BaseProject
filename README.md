@@ -1,0 +1,2 @@
+# spring_Spring-MVC_Mybatis_BaseProject
+Spring+SpringMvc+Mybatis基础项目模版
